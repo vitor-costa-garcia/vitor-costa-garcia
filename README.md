@@ -9,8 +9,8 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Python"];
-  bibliotecas = [" "];
+  linguagens = ["Python","R"];
+  bibliotecas = ["pandas","NumPy","Seaborn","Matplotlib"];
   frameworks = [" "];
 }
 ```
@@ -31,3 +31,4 @@ class Skills extends Desenvolvedor {
   <a href="#" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
 </p>
+,
