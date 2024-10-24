@@ -9,7 +9,6 @@ class SobreMim extends Desenvolvedor {
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Python","R"];
-  bibliotecas = ["pandas","NumPy","Seaborn","Matplotlib"];
-  frameworks = [" "];
+  linguagens = ["Python","C++","C","R"];
+  bibliotecas = ["pandas","NumPy","Seaborn","Matplotlib","scikit-learn"];
 }
