@@ -1,1 +1,1 @@
-Se tiver tempo, dê uma olhada nos meus projetos pessoais.
+Undergrad Data Science @ UEL
